@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ba43bf3900eb524283dcd35577df38c, type: 3}
+  m_Name: EventStatusA
+  m_EditorClassIdentifier: 
+  status_uid:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  status_name:
+  - "\u5E72\u65F1"
+  - "\u690D\u6811\u8FD0\u52A8"
+  - "\u5927\u53CD\u6D3E"
+  - "\u5E87\u62A4"
+  - "\u6807\u8BB0"
+  status_describe:
+  - "\u4E00\u573A\u5E72\u65F1\uFF0C\u4E0D\u4EC5\u4F1A\u5E26\u6765\u7269\u8D28\u7684\u51CF\u5C11\uFF0C\u800C\u4E14\u4F1A\u964D\u4F4E\u4EBA\u4EEC\u7684\u610F\u5FD7"
+  - "\u8FD9\u662F\u4E00\u573A\u6539\u9020\u81EA\u7136\u754C\u7684\u690D\u6811\u8FD0\u52A8"
+  - "\u88AB\u6807\u8BB0\u4E3A\u5927\u53CD\u6D3E\uFF0C\u53D7\u5230\u201D\u6B63\u4E49\u201C\u7684\u4F24\u5BB3\u4F1A\u52A0\u500D"
+  - "\u5E87\u62A4\u4E4B\u4E0B\uFF0C\u514D\u53D7\u4F24\u5BB3"
+  - "\u88AB\u6807\u8BB0\u8005\uFF0C\u4F1A\u6709\u6548\u679C\u52A0\u6210"
+  time:
+  - 3
+  - 2
+  - 3
+  - 2
+  - 1
