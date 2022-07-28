@@ -9,4 +9,4 @@
 ![图片](https://raw.githubusercontent.com/1518546300/Separate-/main/2021_8_29.png)
 ![图片](https://raw.githubusercontent.com/1518546300/Separate-/main/2021_8_29_2.png)
 </br>
-### Any questions about the game can contact me, my email address is: 1518546300@qq.com.
+### Any questions about the game can contact me, my email address is: hujunjia163@163.com.
